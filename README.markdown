@@ -5,8 +5,8 @@ This module aims at testing all accessible method signatures (include name, modi
 ### How to develop
 1. Using `ApiScraper` we can find all APIs (package, interface, class)
 2. Create a junit class, register all public & protected constructors and methods
-3. Using `compareConstructors()` and `compareMethods()` in [`ApiTestUtils`](src/main/java/org/terasology/testUtil/ApiTestUtils) to compare signatures
-4. See example in `ComponentFieldUriTest`
+3. Using `compareConstructors()` and `compareMethods()` in [`ApiTestUtils`](https://github.com/GabrielXia/ApiTest/blob/master/src/main/java/org/terasology/testUtil/ApiTestUtils.java) to compare signatures
+4. See example [`ComponentFieldUriTest`](https://github.com/GabrielXia/ApiTest/blob/master/src/test/java/org/terasology/engine/ComponentFieldUriTest.java)
 
 ### TODO
 1. Finish a test for an Api package
