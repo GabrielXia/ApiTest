@@ -1,0 +1,9 @@
+{
+    "id" : "ApiTest",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "ApiTest",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
